@@ -24,8 +24,23 @@ body {
     line-height:  initial;
 }
 
+/* 
 .img-1 {
-    background-image: url();
+    background-image: url('assets/images/undraw_creative_experiment_8dk3.svg');
     background-size: cover;
     background-position: center;
 }
+
+.img-2 {
+    background-image: url('assets/images/undraw_open_source_1qxw.svg');
+    background-size: cover;
+    background-position: center;
+}
+
+.img-3 {
+    background-image: url('assets/images/undraw_Operating_system_re_iqsc.svg');
+    background-size: cover;
+    background-position: center;
+}
+*/
+
