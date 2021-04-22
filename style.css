@@ -8,6 +8,8 @@ body {
     font-family: 'Spartan', sans-serif;
     font-weight: 300;
     color: white;
+    margin: 0;
+    padding: 0;
 }
 
 .bg-dark {
@@ -23,6 +25,42 @@ body {
     min-height: 3.125rem;
     line-height:  initial;
 }
+
+.instagram, .facebook {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    
+}
+
+
+.facebook:hover {
+    
+    background-color: lightblue;
+    border-radius: 10px;
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -moz-transform: scale(0.8);
+    -o-transform: scale(0.8);
+    -webkit-transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+    -o-transition-duration: 0.5s;
+}
+
+.instagram:hover {
+    background-color: lightcoral;
+    border-radius: 10px;
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -moz-transform: scale(0.8);
+    -o-transform: scale(0.8);
+    -webkit-transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+    -o-transition-duration: 0.5s;
+}
+
 
 /* 
 .img-1 {
@@ -43,4 +81,5 @@ body {
     background-position: center;
 }
 */
+
 
