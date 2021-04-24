@@ -61,6 +61,23 @@ body {
     -o-transition-duration: 0.5s;
 }
 
+.centrado {
+    text-align: center;
+}
+
+img {
+    
+    margin: 0 auto;
+    max-width: 100%;
+    width: 80%;
+  }
+
+.img-fluid {
+
+    margin: -7em;
+    width: 100%;
+   
+}
 
 /* 
 .img-1 {
